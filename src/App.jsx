@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/card';
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '../src/components/card.jsx';
 
 const destinations = [
   {
